@@ -1,4 +1,3 @@
-a = float(input("a:"))
-b = float(input("b:"))
-print("sum of two numbers:", a+b) 
-
+a = float(input())
+b = float(input())
+print(a + b)
